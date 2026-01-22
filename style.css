@@ -1,24 +1,24 @@
 body {
-  background-color: ##D3D3D3;
-  color: #333;
+  background-color: #D3D3D3;
+  color: #000;
   font-family: Arial, sans-serif;
   text-align: center;
-
+  margin: 0;
+  padding: 0;
 }
 
-
 h1 {
-  color: darkblue;
+  color: navy;
   font-weight: 700;
 }
 
 h2 {
-  color: darkred;
+  color: lightpink;
   font-weight: 600;
 }
 
 p {
-  color: #333;
+  color: #000;
   line-height: 1.5;
 }
 
@@ -31,3 +31,4 @@ table, th, td {
   border: 1px solid black;
   padding: 8px;
 }
+
