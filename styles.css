@@ -1,5 +1,5 @@
 body {
-  background-color: #D3D3D3;
+  background-color: #f5f0ff; /* very light purple */
   color: #000;
   font-family: Arial, sans-serif;
   margin: 0;
@@ -17,11 +17,11 @@ h1 {
 }
 
 h2 {
-  color: lightpink;
+  color: maroon;
 }
 
 h3 {
-  color: navy;
+  color: maroon;
 }
 
 p {
