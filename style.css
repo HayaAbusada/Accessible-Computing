@@ -2,39 +2,62 @@ body {
   background-color: #D3D3D3;
   color: #000;
   font-family: Arial, sans-serif;
-  text-align: center;
   margin: 0;
-  padding: 0;
+  padding: 20px;
+}
+
+header, main, footer {
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 h1 {
   color: navy;
-  font-weight: 700;
+  text-align: center;
 }
 
 h2 {
-  color: Maroon;
-  font-weight: 550000;
+  color: lightpink;
+}
+
+h3 {
+  color: navy;
 }
 
 p {
-  color: #000;
-  line-height: 1.5;
-}
-
-table {
-  width: 60%;
-  border-collapse: collapse;
-  margin: 0 auto; /* centers the table */
-}
-
-table, th, td {
-  border: 1px solid black;
-  padding: 8px;
+  line-height: 1.6;
 }
 
 ul, ol {
   text-align: left;
-  display: inline-block; /* keeps list centered on page but left aligned */
 }
 
+figure {
+  text-align: center;
+}
+
+img {
+  max-width: 200px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+form {
+  margin-top: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  max-width: 400px;
+}
+
+button {
+  margin-top: 10px;
+}
