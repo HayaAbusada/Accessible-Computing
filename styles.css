@@ -36,6 +36,11 @@ figure {
   text-align: center;
 }
 
+.profile-photo {
+  max-width: 300px; 
+  height: auto;
+}
+
 img {
   max-width: 200px;
 }
