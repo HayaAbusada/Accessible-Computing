@@ -1,0 +1,63 @@
+body {
+  background-color: #D3D3D3;
+  color: #000;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+header, main, footer {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+h2 {
+  color: lightpink;
+}
+
+h3 {
+  color: navy;
+}
+
+p {
+  line-height: 1.6;
+}
+
+ul, ol {
+  text-align: left;
+}
+
+figure {
+  text-align: center;
+}
+
+img {
+  max-width: 200px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+form {
+  margin-top: 10px;
+}
+
+input, textarea {
+  width: 100%;
+  max-width: 400px;
+}
+
+button {
+  margin-top: 10px;
+}
